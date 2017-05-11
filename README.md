@@ -1,4 +1,4 @@
 # MRJ
-Lista de aplicaciones acabas para compartir
+Lista de aplicaciones acabadas para compartir
 BingoMRJ
 SudokuMRJ
